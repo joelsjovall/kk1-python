@@ -1,13 +1,92 @@
-name,position_group,age,nationality
-David Raya,Goalkeeper,30,Spain
-William Saliba,Defender,25,France
-Gabriel Magalhaes,Defender,28,Brazil
-Ben White,Defender,28,England
-Jurrien Timber,Defender,24,Netherlands
-Declan Rice,Midfielder,27,England
-Martin Odegaard,Midfielder,27,Norway
-Mikel Merino,Midfielder,29,Spain
-Bukayo Saka,Forward,24,England
-Gabriel Martinelli,Forward,24,Brazil
-Kai Havertz,Forward,26,Germany
-Gabriel Jesus,Forward,29,Brazil
+name,nationality,position_group,position_code,club_start,club_end,starts,subs,total_appearances,goals,still_active
+Tony Adams,England,Defender,DF,1983,2002,663,6,669,48,False
+John Lukic,England,Goalkeeper,GK,1984,2001,298,0,298,0,False
+Martin Keown,England,Defender,DF,1985,2004,408,41,449,8,False
+Lee Dixon,England,Defender,DF,1988,2002,598,21,619,28,False
+Nigel Winterburn,England,Defender,DF,1987,2000,572,12,584,12,False
+David Seaman,England,Goalkeeper,GK,1990,2003,564,0,564,0,False
+Ray Parlour,England,Midfielder,MF,1992,2004,390,76,466,32,False
+Dennis Bergkamp,Netherlands,Forward,FW,1995,2006,345,78,423,120,False
+Patrick Vieira,France,Midfielder,MF,1996,2005,396,10,406,33,False
+Gilles Grimandi,France,Defender,DF,1997,2002,128,42,170,6,False
+Marc Overmars,Netherlands,Midfielder,MF,1997,2000,127,15,142,41,False
+Emmanuel Petit,France,Midfielder,MF,1997,2000,114,4,118,11,False
+Freddie Ljungberg,Sweden,Midfielder,MF,1998,2007,285,43,328,72,False
+Ashley Cole,England,Defender,DF,1999,2006,218,10,228,9,False
+Thierry Henry,France,Forward,FW,1999,2012,337,40,377,228,False
+Nwankwo Kanu,Nigeria,Forward,FW,1999,2004,104,94,198,44,False
+Oleh Luzhnyi,Ukraine,Defender,DF,1999,2003,91,19,110,0,False
+Sylvain Wiltord,France,Forward,FW,2000,2004,124,51,175,49,False
+Robert Pires,France,Midfielder,MF,2000,2006,238,46,284,84,False
+Lauren,Cameroon,Defender,DF,2000,2006,227,14,241,9,False
+Sol Campbell,England,Defender,DF,2001,2010,208,3,211,12,False
+Edu,Brazil,Midfielder,MF,2001,2005,76,51,127,15,False
+Gilberto Silva,Brazil,Midfielder,MF,2002,2008,213,31,244,24,False
+Kolo Toure,Ivory Coast,Defender,DF,2002,2009,295,31,326,14,False
+Jens Lehmann,Germany,Goalkeeper,GK,2003,2011,199,1,200,0,False
+Cesc Fabregas,Spain,Midfielder,MF,2003,2011,266,37,303,57,False
+Gael Clichy,France,Defender,DF,2003,2011,230,34,264,2,False
+Philippe Senderos,Switzerland,Defender,DF,2004,2009,105,12,117,4,False
+Manuel Almunia,Spain,Goalkeeper,GK,2004,2011,173,2,175,0,False
+Jose Antonio Reyes,Spain,Forward,FW,2004,2006,89,21,110,23,False
+Robin van Persie,Netherlands,Forward,FW,2004,2012,211,67,278,132,False
+Mathieu Flamini,France,Midfielder,MF,2004,2016,174,72,246,13,False
+Johan Djourou,Switzerland,Defender,DF,2004,2012,123,21,144,1,False
+Emmanuel Eboue,Ivory Coast,Defender,DF,2005,2011,159,55,214,10,False
+Alexander Hleb,Belarus,Midfielder,MF,2005,2008,109,21,130,10,False
+Nicklas Bendtner,Denmark,Forward,FW,2005,2014,83,88,171,47,False
+Alex Song,Cameroon,Midfielder,MF,2005,2012,179,25,204,10,False
+Abou Diaby,France,Midfielder,MF,2006,2015,136,44,180,19,False
+Emmanuel Adebayor,Togo,Forward,FW,2006,2009,114,28,142,62,False
+Tomas Rosicky,Czech Republic,Midfielder,MF,2006,2016,158,88,246,28,False
+Theo Walcott,England,Forward,FW,2006,2018,252,145,397,108,False
+William Gallas,France,Defender,DF,2006,2010,142,0,142,17,False
+Denilson,Brazil,Midfielder,MF,2006,2011,120,33,153,10,False
+Bacary Sagna,France,Defender,DF,2007,2014,272,12,284,5,False
+Kieran Gibbs,England,Defender,DF,2007,2017,183,47,230,6,False
+Aaron Ramsey,Wales,Midfielder,MF,2008,2019,261,108,369,64,False
+Samir Nasri,France,Midfielder,MF,2008,2011,110,15,125,27,False
+Jack Wilshere,England,Midfielder,MF,2008,2018,150,47,197,14,False
+Francis Coquelin,France,Midfielder,MF,2008,2017,115,45,160,0,False
+Andrey Arshavin,Russia,Midfielder,MF,2009,2013,97,47,144,31,False
+Thomas Vermaelen,Belgium,Defender,DF,2009,2014,136,14,150,15,False
+Wojciech Szczesny,Poland,Goalkeeper,GK,2009,2015,181,0,181,0,False
+Laurent Koscielny,France,Defender,DF,2010,2019,342,11,353,27,False
+Alex Oxlade-Chamberlain,England,Midfielder,MF,2011,2017,115,83,198,20,False
+Per Mertesacker,Germany,Defender,DF,2011,2018,215,6,221,10,False
+Mikel Arteta,Spain,Midfielder,MF,2011,2016,131,19,150,16,False
+Olivier Giroud,France,Forward,FW,2012,2018,169,84,253,105,False
+Santi Cazorla,Spain,Midfielder,MF,2012,2018,166,14,180,29,False
+Nacho Monreal,Spain,Defender,DF,2013,2019,223,28,251,10,False
+Mesut Ozil,Germany,Midfielder,MF,2013,2020,237,17,254,44,False
+Hector Bellerin,Spain,Defender,DF,2013,2021,220,19,239,9,False
+Alexis Sanchez,Chile,Forward,FW,2014,2018,153,13,166,80,False
+Calum Chambers,England,Defender,DF,2014,2022,87,35,122,5,False
+Danny Welbeck,England,Forward,FW,2014,2019,78,48,126,32,False
+Ainsley Maitland-Niles,England,Midfielder,MF,2014,2021,88,44,132,3,False
+Petr Cech,Czech Republic,Goalkeeper,GK,2015,2019,139,0,139,0,False
+Alex Iwobi,Nigeria,Midfielder,MF,2015,2019,103,46,149,15,False
+Mohamed Elneny,Egypt,Midfielder,MF,2016,2024,108,53,161,6,False
+Rob Holding,England,Defender,DF,2016,2023,132,30,162,5,False
+Granit Xhaka,Switzerland,Midfielder,MF,2016,2023,279,18,297,23,False
+Shkodran Mustafi,Germany,Defender,DF,2016,2020,142,9,151,9,False
+Sead Kolasinac,Bosnia and Herzegovina,Defender,DF,2017,2022,94,24,118,5,False
+Alexandre Lacazette,France,Forward,FW,2017,2022,150,56,206,71,False
+Eddie Nketiah,England,Forward,FW,2017,2024,70,98,168,38,False
+Pierre-Emerick Aubameyang,Gabon,Forward,FW,2018,2021,142,21,163,92,False
+Bernd Leno,Germany,Goalkeeper,GK,2018,2022,124,1,125,0,False
+Emile Smith Rowe,England,Midfielder,MF,2018,2024,63,52,115,18,False
+Bukayo Saka,England,Forward,FW,2018,2026,265,46,311,81,True
+Nicolas Pepe,Ivory Coast,Forward,FW,2019,2022,67,45,112,27,False
+Gabriel Martinelli,Brazil,Forward,FW,2019,2026,185,91,276,62,True
+Kieran Tierney,Scotland,Defender,DF,2019,2025,95,49,144,6,False
+Gabriel Magalhaes,Brazil,Defender,DF,2020,2026,246,13,259,24,True
+Thomas Partey,Ghana,Midfielder,MF,2020,2025,132,35,167,9,False
+Martin Odegaard,Norway,Midfielder,MF,2021,2026,194,39,233,42,True
+Ben White,England,Defender,DF,2021,2026,162,28,190,7,True
+Gabriel Jesus,Brazil,Forward,FW,2022,2026,69,53,122,31,True
+William Saliba,France,Defender,DF,2022,2026,179,4,183,8,True
+Leandro Trossard,Belgium,Forward,FW,2023,2026,104,69,173,36,True
+Kai Havertz,Germany,Forward,FW,2023,2026,84,25,109,35,True
+Declan Rice,England,Midfielder,MF,2023,2026,144,13,157,21,True
+David Raya,Spain,Goalkeeper,GK,2023,2026,146,0,146,0,True
